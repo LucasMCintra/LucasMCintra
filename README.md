@@ -3,7 +3,7 @@
 
 ## Olá, eu sou Lucas Moraes Cintra
 
-* Cursando 1º período de Física na Universidade Federal de Goiás (UFG)
+* Cursando 1º período de Engenharia de Software na (UNIALFA)
 
 * Contato pelo email: cintralucas62@gmail.com
 
